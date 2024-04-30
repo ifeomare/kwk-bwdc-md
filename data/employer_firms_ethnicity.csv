@@ -1,0 +1,205 @@
+geo_level,geo_name,pct_black_alone,race_or_ethnicity,number_of_employees,number_of_employer_firms,quartiles_number_of_employees,quartiles_number_of_employer_firms,percentile_number_of_employees,percentile_number_of_employer_firms
+state,Maine,1.6,Black,3501,160,26-50% of geographies,Bottom 25% of geographies,30,12
+state,West Virginia,3.4,Black,3008,163,26-50% of geographies,Bottom 25% of geographies,26,14
+state,New Hampshire,1.5,White,262070,25322,26-50% of geographies,Bottom 25% of geographies,26,22
+state,Delaware,22,Hispanic,5785,621,26-50% of geographies,Bottom 25% of geographies,28,24
+state,Iowa,3.8,Asian,10845,1596,26-50% of geographies,26-50% of geographies,28,26
+state,District of Columbia,44.3,Hispanic,7665,783,26-50% of geographies,26-50% of geographies,30,28
+state,New Mexico,2.1,Asian,15977,1614,26-50% of geographies,26-50% of geographies,32,28
+state,New Mexico,2.1,Black,4180,297,26-50% of geographies,26-50% of geographies,36,28
+state,Mississippi,37.2,White,429075,32158,26-50% of geographies,26-50% of geographies,32,28
+state,District of Columbia,44.3,Asian,10286,1807,26-50% of geographies,26-50% of geographies,26,30
+state,Nebraska,4.8,White,414514,35129,26-50% of geographies,26-50% of geographies,30,30
+state,Iowa,3.8,Hispanic,5405,1123,26-50% of geographies,26-50% of geographies,26,30
+state,Alabama,26.4,Hispanic,14650,1177,26-50% of geographies,26-50% of geographies,44,32
+state,Utah,1.1,Asian,19962,2079,26-50% of geographies,26-50% of geographies,36,32
+state,Kansas,5.6,Black,4035,507,26-50% of geographies,26-50% of geographies,34,32
+state,Idaho,0.7,White,354209,38449,26-50% of geographies,26-50% of geographies,28,32
+state,Arkansas,15.1,Hispanic,11622,1215,26-50% of geographies,26-50% of geographies,38,34
+state,Kentucky,8,Black,8398,691,26-50% of geographies,26-50% of geographies,38,34
+state,Delaware,22,Asian,15279,2253,26-50% of geographies,26-50% of geographies,30,34
+state,Arkansas,15.1,White,476683,39706,26-50% of geographies,26-50% of geographies,34,34
+state,Nevada,9.3,White,478189,39939,26-50% of geographies,26-50% of geographies,36,36
+state,Arkansas,15.1,Asian,22922,2485,26-50% of geographies,26-50% of geographies,38,36
+state,Oregon,1.9,Black,8583,751,26-50% of geographies,26-50% of geographies,40,36
+state,Nebraska,4.8,Hispanic,8385,1350,26-50% of geographies,26-50% of geographies,32,36
+state,Kansas,5.6,White,519118,43695,26-50% of geographies,26-50% of geographies,38,38
+state,Minnesota,6.7,Hispanic,9599,1419,26-50% of geographies,26-50% of geographies,34,38
+state,Mississippi,37.2,Asian,19472,2569,26-50% of geographies,26-50% of geographies,34,38
+state,Delaware,22,Black,3963,862,26-50% of geographies,26-50% of geographies,32,38
+state,Wisconsin,6.2,Hispanic,16072,1489,26-50% of geographies,26-50% of geographies,48,40
+state,Kansas,5.6,Asian,28974,2718,26-50% of geographies,26-50% of geographies,40,40
+state,Connecticut,10.7,White,556816,51286,26-50% of geographies,26-50% of geographies,40,40
+state,Arkansas,15.1,Black,3386,887,26-50% of geographies,26-50% of geographies,28,40
+state,Oklahoma,7.2,Black,9013,1046,26-50% of geographies,26-50% of geographies,42,42
+state,Iowa,3.8,White,638836,51329,26-50% of geographies,26-50% of geographies,44,42
+state,Kentucky,8,Asian,29796,3134,26-50% of geographies,26-50% of geographies,42,42
+state,Missouri,11.3,Hispanic,13894,1492,26-50% of geographies,26-50% of geographies,42,42
+state,Kentucky,8,White,730140,52303,26-50% of geographies,26-50% of geographies,48,44
+state,Wisconsin,6.2,Asian,33181,3813,26-50% of geographies,26-50% of geographies,44,44
+state,Kansas,5.6,Hispanic,13102,1653,26-50% of geographies,26-50% of geographies,40,44
+state,Wisconsin,6.2,Black,10780,1061,26-50% of geographies,26-50% of geographies,46,44
+state,Nevada,9.3,Black,12419,1106,26-50% of geographies,26-50% of geographies,48,46
+state,Minnesota,6.7,Asian,33797,4458,26-50% of geographies,26-50% of geographies,46,46
+state,Oklahoma,7.2,White,605222,54102,26-50% of geographies,26-50% of geographies,42,46
+state,Tennessee,16.3,Hispanic,15832,1688,26-50% of geographies,26-50% of geographies,46,46
+state,Idaho,0.7,Hispanic,9856,1704,26-50% of geographies,26-50% of geographies,36,48
+state,Connecticut,10.7,Hispanic,17283,2470,26-50% of geographies,51-75% of geographies,50,52
+state,Utah,1.1,White,724074,63567,26-50% of geographies,51-75% of geographies,46,52
+state,Connecticut,10.7,Black,9234,1437,26-50% of geographies,51-75% of geographies,44,52
+state,Louisiana,31.6,Asian,43064,5204,26-50% of geographies,51-75% of geographies,48,52
+state,South Carolina,25.8,Asian,43924,5617,26-50% of geographies,51-75% of geographies,50,54
+state,Oregon,1.9,White,759718,72733,26-50% of geographies,51-75% of geographies,50,58
+state,Washington,3.9,Black,14964,2073,26-50% of geographies,51-75% of geographies,50,60
+state,Alabama,26.4,White,783018,55805,51-75% of geographies,26-50% of geographies,52,48
+state,Indiana,9.4,Asian,45431,4911,51-75% of geographies,26-50% of geographies,54,48
+state,Arizona,4.6,Black,16881,1363,51-75% of geographies,26-50% of geographies,52,48
+state,Colorado,4,Black,18458,1436,51-75% of geographies,26-50% of geographies,54,50
+state,Louisiana,31.6,Hispanic,18200,2282,51-75% of geographies,26-50% of geographies,56,50
+state,Louisiana,31.6,White,831219,62191,51-75% of geographies,26-50% of geographies,56,50
+state,Missouri,11.3,Asian,46308,4969,51-75% of geographies,26-50% of geographies,56,50
+state,South Carolina,25.8,White,806520,66323,51-75% of geographies,51-75% of geographies,54,54
+state,South Carolina,25.8,Hispanic,21996,2483,51-75% of geographies,51-75% of geographies,58,54
+state,District of Columbia,44.3,Black,20029,1866,51-75% of geographies,51-75% of geographies,58,54
+state,Alabama,26.4,Asian,77486,5760,51-75% of geographies,51-75% of geographies,68,56
+state,Maryland,29.9,White,909466,72097,51-75% of geographies,51-75% of geographies,58,56
+state,Indiana,9.4,Black,30787,1919,51-75% of geographies,51-75% of geographies,72,56
+state,Ohio,12.3,Hispanic,32968,2494,51-75% of geographies,51-75% of geographies,68,56
+state,Massachusetts,7.1,Black,24466,1942,51-75% of geographies,51-75% of geographies,60,58
+state,Oklahoma,7.2,Hispanic,18101,2510,51-75% of geographies,51-75% of geographies,54,58
+state,Oregon,1.9,Asian,48143,6200,51-75% of geographies,51-75% of geographies,58,58
+state,Nevada,9.3,Asian,49175,6320,51-75% of geographies,51-75% of geographies,62,60
+state,Michigan,13.6,Hispanic,29654,2586,51-75% of geographies,51-75% of geographies,66,60
+state,Tennessee,16.3,White,1065891,76237,51-75% of geographies,51-75% of geographies,66,60
+state,Indiana,9.4,White,1180483,86689,51-75% of geographies,51-75% of geographies,72,62
+state,Indiana,9.4,Hispanic,23294,2780,51-75% of geographies,51-75% of geographies,60,62
+state,Minnesota,6.7,Black,33034,2095,51-75% of geographies,51-75% of geographies,74,62
+state,Connecticut,10.7,Asian,45332,6391,51-75% of geographies,51-75% of geographies,52,62
+state,Mississippi,37.2,Black,25710,2137,51-75% of geographies,51-75% of geographies,66,64
+state,Utah,1.1,Hispanic,17848,3326,51-75% of geographies,51-75% of geographies,52,64
+state,Colorado,4,Asian,48246,6536,51-75% of geographies,51-75% of geographies,60,64
+state,Arizona,4.6,White,1076665,86796,51-75% of geographies,51-75% of geographies,68,64
+state,Alabama,26.4,Black,19641,2482,51-75% of geographies,51-75% of geographies,56,68
+state,Pennsylvania,10.8,Hispanic,23307,3970,51-75% of geographies,51-75% of geographies,62,68
+state,Arizona,4.6,Asian,76961,8011,51-75% of geographies,51-75% of geographies,66,68
+state,Wisconsin,6.2,White,1221797,89416,51-75% of geographies,51-75% of geographies,74,68
+state,Oregon,1.9,Hispanic,39850,4849,51-75% of geographies,51-75% of geographies,74,72
+state,Ohio,12.3,Asian,91879,9467,51-75% of geographies,51-75% of geographies,74,72
+state,Louisiana,31.6,Black,35007,3365,51-75% of geographies,51-75% of geographies,76,72
+state,Washington,3.9,White,1135632,115943,51-75% of geographies,51-75% of geographies,70,76
+state,North Carolina,20.9,Asian,94922,11444,51-75% of geographies,51-75% of geographies,76,76
+state,Virginia,18.9,Hispanic,41280,6609,51-75% of geographies,Top 25% of geographies,76,80
+state,Missouri,11.3,White,974819,88954,51-75% of geographies,51-75% of geographies,60,66
+state,Massachusetts,7.1,Hispanic,29146,3749,51-75% of geographies,51-75% of geographies,64,66
+state,Tennessee,16.3,Black,25673,2439,51-75% of geographies,51-75% of geographies,64,66
+state,Tennessee,16.3,Asian,65498,7258,51-75% of geographies,51-75% of geographies,64,66
+state,Michigan,13.6,Asian,84689,8187,51-75% of geographies,51-75% of geographies,70,70
+state,South Carolina,25.8,Black,24908,3283,51-75% of geographies,51-75% of geographies,62,70
+state,Minnesota,6.7,White,1052819,96088,51-75% of geographies,51-75% of geographies,64,70
+state,Massachusetts,7.1,White,1245656,108597,51-75% of geographies,51-75% of geographies,76,74
+state,Maryland,29.9,Hispanic,34872,4851,51-75% of geographies,51-75% of geographies,70,74
+state,Massachusetts,7.1,Asian,84801,12462,51-75% of geographies,Top 25% of geographies,72,78
+state,North Carolina,20.9,Hispanic,37208,6256,51-75% of geographies,Top 25% of geographies,72,78
+state,Colorado,4,White,1001679,116254,51-75% of geographies,Top 25% of geographies,62,78
+state,New Jersey,13.1,Black,30728,3878,51-75% of geographies,Top 25% of geographies,70,78
+state,Missouri,11.3,Black,28076,4118,51-75% of geographies,Top 25% of geographies,68,82
+state,Virginia,18.9,White,1287230,106037,Top 25% of geographies,51-75% of geographies,78,72
+state,Ohio,12.3,Black,40981,3598,Top 25% of geographies,51-75% of geographies,78,76
+state,New Mexico,2.1,Hispanic,55054,5911,Top 25% of geographies,51-75% of geographies,84,76
+state,Pennsylvania,10.8,Black,44010,3932,Top 25% of geographies,Top 25% of geographies,80,80
+state,Maryland,29.9,Asian,109588,13709,Top 25% of geographies,Top 25% of geographies,78,80
+state,New Jersey,13.1,White,1492483,129860,Top 25% of geographies,Top 25% of geographies,80,80
+state,Washington,3.9,Hispanic,47086,8008,Top 25% of geographies,Top 25% of geographies,78,84
+state,Washington,3.9,Asian,122067,17377,Top 25% of geographies,Top 25% of geographies,82,84
+state,Illinois,13.9,Black,46301,5634,Top 25% of geographies,Top 25% of geographies,82,84
+state,Michigan,13.6,White,1752845,140783,Top 25% of geographies,Top 25% of geographies,86,84
+state,Illinois,13.9,Asian,163165,22798,Top 25% of geographies,Top 25% of geographies,86,88
+state,Arizona,4.6,Hispanic,75398,9418,Top 25% of geographies,Top 25% of geographies,90,88
+state,Ohio,12.3,White,1973946,144662,Top 25% of geographies,Top 25% of geographies,88,88
+state,North Carolina,20.9,Black,59205,7429,Top 25% of geographies,Top 25% of geographies,86,88
+state,New York,15.1,Black,53394,10972,Top 25% of geographies,Top 25% of geographies,84,92
+state,Illinois,13.9,White,2153446,186192,Top 25% of geographies,Top 25% of geographies,92,92
+state,New Jersey,13.1,Asian,219789,30023,Top 25% of geographies,Top 25% of geographies,92,92
+state,Illinois,13.9,Hispanic,86430,16089,Top 25% of geographies,Top 25% of geographies,92,92
+state,California,5.6,Black,107175,13887,Top 25% of geographies,Top 25% of geographies,98,96
+state,New York,15.1,White,3092332,302010,Top 25% of geographies,Top 25% of geographies,94,96
+state,Texas,12.1,Hispanic,601503,63560,Top 25% of geographies,Top 25% of geographies,98,96
+state,Texas,12.1,Asian,528583,61346,Top 25% of geographies,Top 25% of geographies,98,96
+state,California,5.6,Asian,1216122,168271,Top 25% of geographies,Top 25% of geographies,100,100
+state,California,5.6,White,5076775,460730,Top 25% of geographies,Top 25% of geographies,100,100
+state,Florida,15.5,Black,102484,16106,Top 25% of geographies,Top 25% of geographies,96,100
+state,California,5.6,Hispanic,690768,88920,Top 25% of geographies,Top 25% of geographies,100,100
+state,Nevada,9.3,Hispanic,50754,4537,Top 25% of geographies,51-75% of geographies,80,70
+state,Michigan,13.6,Black,72352,3516,Top 25% of geographies,51-75% of geographies,90,74
+state,Hawaii,2,Asian,117338,10353,Top 25% of geographies,51-75% of geographies,80,74
+state,Pennsylvania,10.8,Asian,126569,16729,Top 25% of geographies,Top 25% of geographies,84,82
+state,Georgia,31.5,Hispanic,55994,7067,Top 25% of geographies,Top 25% of geographies,86,82
+state,Georgia,31.5,White,1544204,132375,Top 25% of geographies,Top 25% of geographies,82,82
+state,Colorado,4,Hispanic,54174,8292,Top 25% of geographies,Top 25% of geographies,82,86
+state,North Carolina,20.9,White,1597245,142738,Top 25% of geographies,Top 25% of geographies,84,86
+state,Virginia,18.9,Asian,170565,20333,Top 25% of geographies,Top 25% of geographies,88,86
+state,Virginia,18.9,Black,68031,5975,Top 25% of geographies,Top 25% of geographies,88,86
+state,Georgia,31.5,Asian,183129,25065,Top 25% of geographies,Top 25% of geographies,90,90
+state,Pennsylvania,10.8,White,2127397,176625,Top 25% of geographies,Top 25% of geographies,90,90
+state,New Jersey,13.1,Hispanic,75265,12267,Top 25% of geographies,Top 25% of geographies,88,90
+state,Maryland,29.9,Black,76174,7678,Top 25% of geographies,Top 25% of geographies,92,90
+state,Florida,15.5,Asian,237739,33771,Top 25% of geographies,Top 25% of geographies,94,94
+state,Texas,12.1,Black,125460,11858,Top 25% of geographies,Top 25% of geographies,100,94
+state,New York,15.1,Hispanic,129692,24516,Top 25% of geographies,Top 25% of geographies,94,94
+state,Texas,12.1,White,3983859,290911,Top 25% of geographies,Top 25% of geographies,98,94
+state,Florida,15.5,White,3178527,330493,Top 25% of geographies,Top 25% of geographies,96,98
+state,Florida,15.5,Hispanic,479695,85966,Top 25% of geographies,Top 25% of geographies,96,98
+state,Georgia,31.5,Black,101127,14009,Top 25% of geographies,Top 25% of geographies,94,98
+state,New York,15.1,Asian,441310,72611,Top 25% of geographies,Top 25% of geographies,96,98
+state,Idaho,0.7,Asian,0,0,Bottom 25% of geographies,Bottom 25% of geographies,0,0
+state,Alaska,3.2,Asian,0,0,Bottom 25% of geographies,Bottom 25% of geographies,0,0
+state,Mississippi,37.2,Hispanic,0,0,Bottom 25% of geographies,Bottom 25% of geographies,0,0
+state,Oklahoma,7.2,Asian,0,0,Bottom 25% of geographies,Bottom 25% of geographies,0,0
+state,Montana,0.6,Black,102,25,Bottom 25% of geographies,Bottom 25% of geographies,2,0
+state,District of Columbia,44.3,White,106912,8197,Bottom 25% of geographies,Bottom 25% of geographies,2,0
+state,Vermont,1.2,Hispanic,0,0,Bottom 25% of geographies,Bottom 25% of geographies,0,0
+state,Nebraska,4.8,Asian,0,0,Bottom 25% of geographies,Bottom 25% of geographies,0,0
+state,Kentucky,8,Hispanic,0,0,Bottom 25% of geographies,Bottom 25% of geographies,0,0
+state,Hawaii,2,White,139116,9917,Bottom 25% of geographies,Bottom 25% of geographies,8,2
+state,Vermont,1.2,Black,88,33,Bottom 25% of geographies,Bottom 25% of geographies,0,2
+state,Alaska,3.2,White,101339,12801,Bottom 25% of geographies,Bottom 25% of geographies,0,4
+state,South Dakota,2.2,Black,243,42,Bottom 25% of geographies,Bottom 25% of geographies,6,4
+state,North Dakota,3.2,Black,117,66,Bottom 25% of geographies,Bottom 25% of geographies,4,6
+state,North Dakota,3.2,Hispanic,686,118,Bottom 25% of geographies,Bottom 25% of geographies,6,6
+state,Vermont,1.2,White,113736,14460,Bottom 25% of geographies,Bottom 25% of geographies,4,6
+state,Wyoming,0.8,White,121819,15530,Bottom 25% of geographies,Bottom 25% of geographies,6,8
+state,Vermont,1.2,Asian,1734,277,Bottom 25% of geographies,Bottom 25% of geographies,8,8
+state,Maine,1.6,Hispanic,1008,174,Bottom 25% of geographies,Bottom 25% of geographies,8,8
+state,Wyoming,0.8,Black,425,91,Bottom 25% of geographies,Bottom 25% of geographies,8,8
+state,North Dakota,3.2,White,164022,16216,Bottom 25% of geographies,Bottom 25% of geographies,12,10
+state,South Dakota,2.2,Hispanic,2253,238,Bottom 25% of geographies,Bottom 25% of geographies,10,10
+state,South Dakota,2.2,Asian,2262,344,Bottom 25% of geographies,Bottom 25% of geographies,10,10
+state,Idaho,0.7,Black,749,125,Bottom 25% of geographies,Bottom 25% of geographies,10,10
+state,Montana,0.6,Asian,4542,414,Bottom 25% of geographies,Bottom 25% of geographies,16,12
+state,West Virginia,3.4,Hispanic,3469,249,Bottom 25% of geographies,Bottom 25% of geographies,14,12
+state,Delaware,22,White,171703,16329,Bottom 25% of geographies,Bottom 25% of geographies,14,12
+state,New Hampshire,1.5,Hispanic,3664,337,Bottom 25% of geographies,Bottom 25% of geographies,20,14
+state,South Dakota,2.2,White,161172,19163,Bottom 25% of geographies,Bottom 25% of geographies,10,14
+state,North Dakota,3.2,Asian,3074,469,Bottom 25% of geographies,Bottom 25% of geographies,14,14
+state,Alaska,3.2,Hispanic,4115,530,Bottom 25% of geographies,Bottom 25% of geographies,22,16
+state,West Virginia,3.4,White,216642,19230,Bottom 25% of geographies,Bottom 25% of geographies,20,16
+state,Alaska,3.2,Black,1813,189,Bottom 25% of geographies,Bottom 25% of geographies,18,16
+state,Wyoming,0.8,Asian,3008,543,Bottom 25% of geographies,Bottom 25% of geographies,12,16
+state,Wyoming,0.8,Hispanic,3230,559,Bottom 25% of geographies,Bottom 25% of geographies,12,18
+state,West Virginia,3.4,Asian,7192,676,Bottom 25% of geographies,Bottom 25% of geographies,22,18
+state,Montana,0.6,Hispanic,3476,559,Bottom 25% of geographies,Bottom 25% of geographies,16,18
+state,New Hampshire,1.5,Black,2015,200,Bottom 25% of geographies,Bottom 25% of geographies,20,18
+state,Rhode Island,6.2,White,203109,19616,Bottom 25% of geographies,Bottom 25% of geographies,16,18
+state,Maine,1.6,Asian,5262,784,Bottom 25% of geographies,Bottom 25% of geographies,18,20
+state,Nebraska,4.8,Black,1485,223,Bottom 25% of geographies,Bottom 25% of geographies,16,20
+state,New Mexico,2.1,White,236478,19926,Bottom 25% of geographies,Bottom 25% of geographies,22,20
+state,Hawaii,2,Hispanic,3609,607,Bottom 25% of geographies,Bottom 25% of geographies,18,22
+state,Hawaii,2,Black,852,232,Bottom 25% of geographies,Bottom 25% of geographies,12,22
+state,Rhode Island,6.2,Asian,5650,826,Bottom 25% of geographies,Bottom 25% of geographies,20,22
+state,Rhode Island,6.2,Black,2188,261,Bottom 25% of geographies,Bottom 25% of geographies,22,24
+state,New Hampshire,1.5,Asian,10026,1164,Bottom 25% of geographies,Bottom 25% of geographies,24,24
+state,Maine,1.6,White,244795,29164,Bottom 25% of geographies,Bottom 25% of geographies,24,24
+state,Iowa,3.8,Black,1017,270,Bottom 25% of geographies,26-50% of geographies,14,26
+state,Montana,0.6,White,205316,29324,Bottom 25% of geographies,26-50% of geographies,18,26
+state,Rhode Island,6.2,Hispanic,5140,679,Bottom 25% of geographies,26-50% of geographies,24,26
+state,Utah,1.1,Black,2486,310,Bottom 25% of geographies,26-50% of geographies,24,30

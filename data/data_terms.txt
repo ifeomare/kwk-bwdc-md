@@ -1,0 +1,24 @@
+*collected from BWDC*
+geo_level - geographic level(state)
+
+geo_name - county or zipcode
+
+metric - loan action taken or Loan product type
+
+metric_value - categorical buckets for either 'Firm Receipt Amount' or 'Firm Size'
+
+number_of_employees - number of employees is calculated by BWDC based on source data. When ABS provides a categorical range instead of number, ie "0 to 19 employees", the lower value is used
+
+number_of_employer_firms - Number of employer firms is calculated by BWDC based on source data. When ABS published 'D' (withheld to avoid disclosing data) or 'S' (estimate does not meet publication standard) as the number of employer firms, 0 is used as the number of employer firms
+
+pct_black_alone - Black population percentage
+
+percentile_number_of_employees  BWDC calculated state percentile and number of employees based on source data. When ABS provides a categorical range instead of number, ie "0 to 19 employees", the lower value is used
+
+percentile_number_of_employer_firms - BWDC calculated state percentile and number of employer firms based on source data. When ABS published 'D' (withheld to avoid disclosing data) or 'S' (estimate does not meet publication standard) as the number of employer firms, 0 is used as the number of employer firms
+
+quartiles_number_of_employees - BWDC calculated state quartiles and number of employees based on source data. When ABS provides a categorical range instead of number, ie "0 to 19 employees", the lower value is used
+
+quartiles_number_of_employer_firms - BWDC calculated state quartiles and number of employer firms based on source data. When ABS published 'D' (withheld to avoid disclosing data) or 'S' (estimate does not meet publication standard) as the number of employer firms, 0 is used as the number of employer firms
+
+race_or_ethnicity  When firms are labeled as Hispanic-owned, they are categorized as Hispanic. Remaining firms are categorized by race. meaning_of_race_code and meaning_of_ethnicity_code from source data
