@@ -12,7 +12,7 @@ import requests
 import json
 
 # Define the API Key, Endpoint, and Header
-API_KEY = 'u34vRstBKI71z4Ax0_VHiJ6kCewLQBIio9nWY4elQBJ-hBKYlTDpG5ZSV46WOK2OBr-QJbUb-OyeOaWms7HzH8S3dTns8aLKs9d0cYZZ-tn_WpRslq9U2RoPzMIpZnYx'
+API_KEY = ''
 ENDPOINT = "https://api.yelp.com/v3/businesses/search?"
 HEADERS = {'Authorization': 'bearer %s' % API_KEY}
 
