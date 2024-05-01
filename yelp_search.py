@@ -12,7 +12,7 @@ import requests
 import json
 
 # Define the API Key, Endpoint, and Header
-API_KEY = 'u34vRstBKI71z4Ax0_VHiJ6kCewLQBIio9nWY4elQBJ-hBKYlTDpG5ZSV46WOK2OBr-QJbUb-OyeOaWms7HzH8S3dTns8aLKs9d0cYZZ-tn_WpRslq9U2RoPzMIpZnYx'
+API_KEY = ''
 ENDPOINT = "https://api.yelp.com/v3/businesses/search?"
 HEADERS = {'Authorization': 'bearer %s' % API_KEY}
 
@@ -72,14 +72,14 @@ haitian_businesses = search_businesses(PARAMETERS_HAITIAN)
 all_businesses = black_owned_businesses + african_businesses + haitian_businesses
 
 # Write response to a txt file
-filename1 = 'data/black_results.txt'
+filename1 = 'black_results.txt'
 with open(filename1, 'w') as f:
     f.write(json.dumps(all_businesses, indent=3))
 print(f'Data has been written to {filename1}')
 
 # Write data to a csv file
-filename2 = 'data/black_results.csv'
-with open(filename2, 'w', newline='', encoding='utf-8') as csvfile:
+filename2 = 'black_results.csv'
+with open(filename2, 'w', newline='') as csvfile:
     csvwriter = csv.writer(csvfile)
 
     if all_businesses:
@@ -87,8 +87,7 @@ with open(filename2, 'w', newline='', encoding='utf-8') as csvfile:
         csvwriter.writerow(all_businesses[0].keys())
         # Write the data rows
         for business in all_businesses:
-            row = [business.get(key, '') for key in all_businesses[0].keys()]
-            csvwriter.writerow(row)
+            csvwriter.writerow(business.values())
         print(f'Data has been written to {filename2}')
     else:
         print("No businesses found in the response data.")

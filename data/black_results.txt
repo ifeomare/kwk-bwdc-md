@@ -61,8 +61,8 @@
          "longitude": -76.61357
       },
       "transactions": [
-         "delivery",
-         "pickup"
+         "pickup",
+         "delivery"
       ],
       "price": "$$",
       "location": {
@@ -112,8 +112,8 @@
          "longitude": -76.61447049206875
       },
       "transactions": [
-         "delivery",
-         "pickup"
+         "pickup",
+         "delivery"
       ],
       "location": {
          "address1": "1010 Saint Paul St",
@@ -236,57 +236,6 @@
       }
    },
    {
-      "id": "ObGJ1gEwa8uzZyp7-1bs4g",
-      "alias": "the-green-house-juice-cafe-baltimore",
-      "name": "The Green House Juice Cafe",
-      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rQ6x11jPJrRocMi0EidSbg/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/the-green-house-juice-cafe-baltimore?adjust_creative=D0ls6lOcASZErU46_g3oiQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=D0ls6lOcASZErU46_g3oiQ",
-      "review_count": 128,
-      "categories": [
-         {
-            "alias": "vegan",
-            "title": "Vegan"
-         },
-         {
-            "alias": "juicebars",
-            "title": "Juice Bars & Smoothies"
-         }
-      ],
-      "rating": 4.4,
-      "coordinates": {
-         "latitude": 39.3172610505369,
-         "longitude": -76.6152258901957
-      },
-      "transactions": [
-         "delivery",
-         "pickup"
-      ],
-      "price": "$",
-      "location": {
-         "address1": "2431 St Paul St",
-         "address2": "",
-         "address3": null,
-         "city": "Baltimore",
-         "zip_code": "21218",
-         "country": "US",
-         "state": "MD",
-         "display_address": [
-            "2431 St Paul St",
-            "Baltimore, MD 21218"
-         ]
-      },
-      "phone": "+14108891391",
-      "display_phone": "(410) 889-1391",
-      "distance": 1034.2249403701603,
-      "attributes": {
-         "business_temp_closed": null,
-         "menu_url": null,
-         "open24_hours": null,
-         "waitlist_reservation": null
-      }
-   },
-   {
       "id": "svctnw5lum1vaTDagaub9g",
       "alias": "beauty-plus-baltimore-3",
       "name": "Beauty Plus",
@@ -323,6 +272,57 @@
       "phone": "+14106850955",
       "display_phone": "(410) 685-0955",
       "distance": 804.8437059970369,
+      "attributes": {
+         "business_temp_closed": null,
+         "menu_url": null,
+         "open24_hours": null,
+         "waitlist_reservation": null
+      }
+   },
+   {
+      "id": "ObGJ1gEwa8uzZyp7-1bs4g",
+      "alias": "the-green-house-juice-cafe-baltimore",
+      "name": "The Green House Juice Cafe",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rQ6x11jPJrRocMi0EidSbg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/the-green-house-juice-cafe-baltimore?adjust_creative=D0ls6lOcASZErU46_g3oiQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=D0ls6lOcASZErU46_g3oiQ",
+      "review_count": 128,
+      "categories": [
+         {
+            "alias": "vegan",
+            "title": "Vegan"
+         },
+         {
+            "alias": "juicebars",
+            "title": "Juice Bars & Smoothies"
+         }
+      ],
+      "rating": 4.4,
+      "coordinates": {
+         "latitude": 39.3172610505369,
+         "longitude": -76.6152258901957
+      },
+      "transactions": [
+         "pickup",
+         "delivery"
+      ],
+      "price": "$",
+      "location": {
+         "address1": "2431 St Paul St",
+         "address2": "",
+         "address3": null,
+         "city": "Baltimore",
+         "zip_code": "21218",
+         "country": "US",
+         "state": "MD",
+         "display_address": [
+            "2431 St Paul St",
+            "Baltimore, MD 21218"
+         ]
+      },
+      "phone": "+14108891391",
+      "display_phone": "(410) 889-1391",
+      "distance": 1034.2249403701603,
       "attributes": {
          "business_temp_closed": null,
          "menu_url": null,
@@ -372,60 +372,6 @@
       "attributes": {
          "business_temp_closed": null,
          "menu_url": null,
-         "waitlist_reservation": null
-      }
-   },
-   {
-      "id": "Zxj4PhLtrWUTaNsyN0bkWA",
-      "alias": "dodahs-kitchen-baltimore",
-      "name": "Dodah's Kitchen",
-      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/msgHJVhG2CsXi13maYVpbg/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/dodahs-kitchen-baltimore?adjust_creative=D0ls6lOcASZErU46_g3oiQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=D0ls6lOcASZErU46_g3oiQ",
-      "review_count": 63,
-      "categories": [
-         {
-            "alias": "vegan",
-            "title": "Vegan"
-         },
-         {
-            "alias": "bakeries",
-            "title": "Bakeries"
-         },
-         {
-            "alias": "soulfood",
-            "title": "Soul Food"
-         }
-      ],
-      "rating": 4.3,
-      "coordinates": {
-         "latitude": 39.303855389047534,
-         "longitude": -76.61634401383155
-      },
-      "transactions": [
-         "delivery",
-         "pickup"
-      ],
-      "location": {
-         "address1": "1210 N Charles St",
-         "address2": "",
-         "address3": null,
-         "city": "Baltimore",
-         "zip_code": "21201",
-         "country": "US",
-         "state": "MD",
-         "display_address": [
-            "1210 N Charles St",
-            "Baltimore, MD 21201"
-         ]
-      },
-      "phone": "+12028836324",
-      "display_phone": "(202) 883-6324",
-      "distance": 871.5892186432627,
-      "attributes": {
-         "business_temp_closed": null,
-         "menu_url": null,
-         "open24_hours": null,
          "waitlist_reservation": null
       }
    },
@@ -481,6 +427,60 @@
       }
    },
    {
+      "id": "Zxj4PhLtrWUTaNsyN0bkWA",
+      "alias": "dodahs-kitchen-baltimore",
+      "name": "Dodah's Kitchen",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/msgHJVhG2CsXi13maYVpbg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/dodahs-kitchen-baltimore?adjust_creative=D0ls6lOcASZErU46_g3oiQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=D0ls6lOcASZErU46_g3oiQ",
+      "review_count": 63,
+      "categories": [
+         {
+            "alias": "vegan",
+            "title": "Vegan"
+         },
+         {
+            "alias": "bakeries",
+            "title": "Bakeries"
+         },
+         {
+            "alias": "soulfood",
+            "title": "Soul Food"
+         }
+      ],
+      "rating": 4.3,
+      "coordinates": {
+         "latitude": 39.303855389047534,
+         "longitude": -76.61634401383155
+      },
+      "transactions": [
+         "pickup",
+         "delivery"
+      ],
+      "location": {
+         "address1": "1210 N Charles St",
+         "address2": "",
+         "address3": null,
+         "city": "Baltimore",
+         "zip_code": "21201",
+         "country": "US",
+         "state": "MD",
+         "display_address": [
+            "1210 N Charles St",
+            "Baltimore, MD 21201"
+         ]
+      },
+      "phone": "+12028836324",
+      "display_phone": "(202) 883-6324",
+      "distance": 871.5892186432627,
+      "attributes": {
+         "business_temp_closed": null,
+         "menu_url": null,
+         "open24_hours": null,
+         "waitlist_reservation": null
+      }
+   },
+   {
       "id": "lW_UxROvdjymg41X3s54PA",
       "alias": "taste-this-balt-baltimore-2",
       "name": "Taste This Balt",
@@ -508,8 +508,8 @@
          "longitude": -76.6151504516602
       },
       "transactions": [
-         "delivery",
-         "pickup"
+         "pickup",
+         "delivery"
       ],
       "price": "$$",
       "location": {
@@ -563,8 +563,8 @@
          "longitude": -76.6168679
       },
       "transactions": [
-         "delivery",
-         "pickup"
+         "pickup",
+         "delivery"
       ],
       "location": {
          "address1": "7 W Preston St",
@@ -802,8 +802,8 @@
          "longitude": -76.609168
       },
       "transactions": [
-         "delivery",
-         "pickup"
+         "pickup",
+         "delivery"
       ],
       "location": {
          "address1": "1909 Greenmount Ave",
@@ -856,8 +856,8 @@
          "longitude": -76.6172177
       },
       "transactions": [
-         "delivery",
-         "pickup"
+         "pickup",
+         "delivery"
       ],
       "location": {
          "address1": "1001 Cathedral St",
@@ -953,8 +953,8 @@
          "longitude": -76.615094
       },
       "transactions": [
-         "delivery",
-         "pickup"
+         "pickup",
+         "delivery"
       ],
       "price": "$$",
       "location": {
@@ -1450,7 +1450,7 @@
       "id": "YmZ9pcmwGTc4QFUncXFVnA",
       "alias": "curvy-silk-sculpting-baltimore",
       "name": "Curvy Silk Sculpting",
-      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/cFcDD3qsnbunx-WjDVoEFw/o.jpg",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/f17aPFDs1KxJejPuOn6F1g/o.jpg",
       "is_closed": false,
       "url": "https://www.yelp.com/biz/curvy-silk-sculpting-baltimore?adjust_creative=D0ls6lOcASZErU46_g3oiQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=D0ls6lOcASZErU46_g3oiQ",
       "review_count": 0,
@@ -1536,6 +1536,52 @@
       }
    },
    {
+      "id": "9k-It2GvRaQpx3kLqE3pzg",
+      "alias": "all-family-baltimore",
+      "name": "All Family",
+      "image_url": "",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/all-family-baltimore?adjust_creative=D0ls6lOcASZErU46_g3oiQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=D0ls6lOcASZErU46_g3oiQ",
+      "review_count": 0,
+      "categories": [
+         {
+            "alias": "itservices",
+            "title": "IT Services & Computer Repair"
+         },
+         {
+            "alias": "web_design",
+            "title": "Web Design"
+         }
+      ],
+      "rating": 0.0,
+      "coordinates": {
+         "latitude": 39.30212,
+         "longitude": -76.61552
+      },
+      "transactions": [],
+      "location": {
+         "address1": "1 E Chase St",
+         "address2": "Ste 217",
+         "address3": "",
+         "city": "Baltimore",
+         "zip_code": "21202",
+         "country": "US",
+         "state": "MD",
+         "display_address": [
+            "1 E Chase St",
+            "Ste 217",
+            "Baltimore, MD 21202"
+         ]
+      },
+      "phone": "+14437764350",
+      "display_phone": "(443) 776-4350",
+      "distance": 957.1271366920591,
+      "attributes": {
+         "business_temp_closed": null,
+         "waitlist_reservation": null
+      }
+   },
+   {
       "id": "H4JNwHYzJegXF03DWosx9Q",
       "alias": "luxe-rich-beau-baltimore",
       "name": "Luxe/rich Beau",
@@ -1582,52 +1628,6 @@
       "attributes": {
          "business_temp_closed": null,
          "menu_url": null,
-         "waitlist_reservation": null
-      }
-   },
-   {
-      "id": "9k-It2GvRaQpx3kLqE3pzg",
-      "alias": "all-family-baltimore",
-      "name": "All Family",
-      "image_url": "",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/all-family-baltimore?adjust_creative=D0ls6lOcASZErU46_g3oiQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=D0ls6lOcASZErU46_g3oiQ",
-      "review_count": 0,
-      "categories": [
-         {
-            "alias": "itservices",
-            "title": "IT Services & Computer Repair"
-         },
-         {
-            "alias": "web_design",
-            "title": "Web Design"
-         }
-      ],
-      "rating": 0.0,
-      "coordinates": {
-         "latitude": 39.30212,
-         "longitude": -76.61552
-      },
-      "transactions": [],
-      "location": {
-         "address1": "1 E Chase St",
-         "address2": "Ste 217",
-         "address3": "",
-         "city": "Baltimore",
-         "zip_code": "21202",
-         "country": "US",
-         "state": "MD",
-         "display_address": [
-            "1 E Chase St",
-            "Ste 217",
-            "Baltimore, MD 21202"
-         ]
-      },
-      "phone": "+14437764350",
-      "display_phone": "(443) 776-4350",
-      "distance": 957.1271366920591,
-      "attributes": {
-         "business_temp_closed": null,
          "waitlist_reservation": null
       }
    },
@@ -1747,8 +1747,8 @@
          "longitude": -76.61447049206875
       },
       "transactions": [
-         "delivery",
-         "pickup"
+         "pickup",
+         "delivery"
       ],
       "location": {
          "address1": "1010 Saint Paul St",
@@ -1793,8 +1793,8 @@
          "longitude": -76.6177634
       },
       "transactions": [
-         "delivery",
-         "pickup"
+         "pickup",
+         "delivery"
       ],
       "price": "$$",
       "location": {
