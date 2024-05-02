@@ -1,0 +1,5 @@
+geo_level,geo_name,pct_black_alone,race_or_ethnicity,number_of_employees,number_of_employer_firms,quartiles_number_of_employees,quartiles_number_of_employer_firms,percentile_number_of_employees,percentile_number_of_employer_firms
+state,Maryland,29.9,White,909466,72097,51-75% of geographies,51-75% of geographies,58,56
+state,Maryland,29.9,Hispanic,34872,4851,51-75% of geographies,51-75% of geographies,70,74
+state,Maryland,29.9,Asian,109588,13709,Top 25% of geographies,Top 25% of geographies,78,80
+state,Maryland,29.9,Black,76174,7678,Top 25% of geographies,Top 25% of geographies,92,90

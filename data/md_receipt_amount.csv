@@ -1,0 +1,77 @@
+geo_level,geo_name,metric,metric_value,race_or_ethnicity,number_of_employees,number_of_employer_firms
+state,Maryland,Firm Receipt Amount,"$5,000 to $9,999",Asian,0,0
+state,Maryland,Firm Receipt Amount,"less than $5,000",Asian,0,0
+state,Maryland,Firm Receipt Amount,"$1,000,000 or more",Asian,78323,4037
+state,Maryland,Firm Receipt Amount,"$10,000 to $24,999",Asian,108,184
+state,Maryland,Firm Receipt Amount,"$25,000 to $49,999",Asian,332,408
+state,Maryland,Firm Receipt Amount,"$50,000 to $99,999",Asian,619,654
+state,Maryland,Firm Receipt Amount,"$100,000 to $249,999",Asian,4456,2264
+state,Maryland,Firm Receipt Amount,"$250,000 to $499,999",Asian,8603,2638
+state,Maryland,Firm Receipt Amount,"$500,000 to $999,999",Asian,17087,3390
+state,Maryland,Firm Size,Firms with no employees,Asian,0,1456
+state,Maryland,Firm Size,Firms with 1 to 4 employees,Asian,15165,7054
+state,Maryland,Firm Size,Firms with 5 to 9 employees,Asian,16799,2635
+state,Maryland,Firm Size,Firms with 10 to 19 employees,Asian,20031,1495
+state,Maryland,Firm Size,Firms with 20 to 49 employees,Asian,20581,735
+state,Maryland,Firm Size,Firms with 50 to 99 employees,Asian,10275,155
+state,Maryland,Firm Size,Firms with 100 to 249 employees,Asian,0,0
+state,Maryland,Firm Size,Firms with 250 to 499 employees,Asian,0,0
+state,Maryland,Firm Size,Firms with 500 employees or more,Asian,6076,33
+state,Maryland,Firm Size,Firms with less than 500 employees,Asian,103512,13677
+state,Maryland,Firm Receipt Amount,"$5,000 to $9,999",Black,0,0
+state,Maryland,Firm Receipt Amount,"less than $5,000",Black,0,0
+state,Maryland,Firm Receipt Amount,"$1,000,000 or more",Black,58463,1713
+state,Maryland,Firm Receipt Amount,"$10,000 to $24,999",Black,49,167
+state,Maryland,Firm Receipt Amount,"$25,000 to $49,999",Black,645,570
+state,Maryland,Firm Receipt Amount,"$50,000 to $99,999",Black,925,746
+state,Maryland,Firm Receipt Amount,"$100,000 to $249,999",Black,2656,1566
+state,Maryland,Firm Receipt Amount,"$250,000 to $499,999",Black,5233,1518
+state,Maryland,Firm Receipt Amount,"$500,000 to $999,999",Black,7925,1125
+state,Maryland,Firm Size,Firms with no employees,Black,0,0
+state,Maryland,Firm Size,Firms with 1 to 4 employees,Black,6425,3689
+state,Maryland,Firm Size,Firms with 5 to 9 employees,Black,7375,1114
+state,Maryland,Firm Size,Firms with 10 to 19 employees,Black,11898,910
+state,Maryland,Firm Size,Firms with 20 to 49 employees,Black,8017,258
+state,Maryland,Firm Size,Firms with 50 to 99 employees,Black,0,0
+state,Maryland,Firm Size,Firms with 100 to 249 employees,Black,0,0
+state,Maryland,Firm Size,Firms with 250 to 499 employees,Black,0,0
+state,Maryland,Firm Size,Firms with 500 employees or more,Black,6714,16
+state,Maryland,Firm Size,Firms with less than 500 employees,Black,69460,7661
+state,Maryland,Firm Receipt Amount,"$5,000 to $9,999",White,140,457
+state,Maryland,Firm Receipt Amount,"less than $5,000",White,2223,584
+state,Maryland,Firm Receipt Amount,"$1,000,000 or more",White,780145,24709
+state,Maryland,Firm Receipt Amount,"$10,000 to $24,999",White,1806,1567
+state,Maryland,Firm Receipt Amount,"$25,000 to $49,999",White,2310,2470
+state,Maryland,Firm Receipt Amount,"$50,000 to $99,999",White,7191,5348
+state,Maryland,Firm Receipt Amount,"$100,000 to $249,999",White,17062,11448
+state,Maryland,Firm Receipt Amount,"$250,000 to $499,999",White,38824,13236
+state,Maryland,Firm Receipt Amount,"$500,000 to $999,999",White,59765,12276
+state,Maryland,Firm Size,Firms with no employees,White,0,9657
+state,Maryland,Firm Size,Firms with 1 to 4 employees,White,65265,33279
+state,Maryland,Firm Size,Firms with 5 to 9 employees,White,76041,11702
+state,Maryland,Firm Size,Firms with 10 to 19 employees,White,101865,7722
+state,Maryland,Firm Size,Firms with 20 to 49 employees,White,165097,5711
+state,Maryland,Firm Size,Firms with 50 to 99 employees,White,106221,1613
+state,Maryland,Firm Size,Firms with 100 to 249 employees,White,0,0
+state,Maryland,Firm Size,Firms with 250 to 499 employees,White,70978,646
+state,Maryland,Firm Size,Firms with 500 employees or more,White,206564,727
+state,Maryland,Firm Size,Firms with less than 500 employees,White,702902,71369
+state,Maryland,Firm Receipt Amount,"$5,000 to $9,999",Hispanic,0,0
+state,Maryland,Firm Receipt Amount,"less than $5,000",Hispanic,0,0
+state,Maryland,Firm Receipt Amount,"$1,000,000 or more",Hispanic,26774,1455
+state,Maryland,Firm Receipt Amount,"$10,000 to $24,999",Hispanic,0,0
+state,Maryland,Firm Receipt Amount,"$25,000 to $49,999",Hispanic,0,0
+state,Maryland,Firm Receipt Amount,"$50,000 to $99,999",Hispanic,396,300
+state,Maryland,Firm Receipt Amount,"$100,000 to $249,999",Hispanic,1288,1054
+state,Maryland,Firm Receipt Amount,"$250,000 to $499,999",Hispanic,2374,989
+state,Maryland,Firm Receipt Amount,"$500,000 to $999,999",Hispanic,3938,809
+state,Maryland,Firm Size,Firms with no employees,Hispanic,0,0
+state,Maryland,Firm Size,Firms with 1 to 4 employees,Hispanic,5417,2357
+state,Maryland,Firm Size,Firms with 5 to 9 employees,Hispanic,4219,658
+state,Maryland,Firm Size,Firms with 10 to 19 employees,Hispanic,7982,620
+state,Maryland,Firm Size,Firms with 20 to 49 employees,Hispanic,5839,209
+state,Maryland,Firm Size,Firms with 50 to 99 employees,Hispanic,0,0
+state,Maryland,Firm Size,Firms with 100 to 249 employees,Hispanic,1599,10
+state,Maryland,Firm Size,Firms with 250 to 499 employees,Hispanic,0,0
+state,Maryland,Firm Size,Firms with 500 employees or more,Hispanic,2376,14
+state,Maryland,Firm Size,Firms with less than 500 employees,Hispanic,32496,4838
